@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL and PHP**
 
-- 💬 Ask me about **C#,Javascript,Python**
+- 💬 Ask me about **C#, Javascript, Python**
 
 - 📫 How to reach me **saudmillwala@gmail.com**
 
