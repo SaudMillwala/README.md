@@ -1,3 +1,5 @@
+![nyc skyline](nycskyline.jpg)
+
 <h1 align="center">Hi 👋, I'm Saud Millwala</h1>
 <h3 align="center">Software Engineer | Foodie | Photographer</h3>
 
