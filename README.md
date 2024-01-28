@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Saud Millwala</h1>
 <h3 align="center">Software Engineer | Foodie | Photographer</h3>
 
-- 🔭 I’m currently working on **College Website**
+- 🔭 I’m currently working on **pyochai.com**
 
-- 🌱 I’m currently learning **SQL and PHP**
+- 🌱 I’m currently learning **React Native and Firebase**
 
 - 💬 Ask me about **C#, Javascript, Python**
 
 - 📫 How to reach me **saudmillwala@gmail.com**
 
-- 📄 Know about my experiences [Saud's Resume](https://drive.google.com/file/d/1D5kJgFDu9dtJ1DCUo5m7SFIrz4yZ-V3R/view?usp=sharing)
+- 📄 Know about my experiences [Saud's Resume](https://docs.google.com/document/d/1ohiEAjX9aFUYZX3TZ3GaSLCVr1XMQLvS/edit?usp=sharing&ouid=112478105491647465355&rtpof=true&sd=true)
 
 - ⚡ Fun fact **Photography is my hobby**
 
