@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Saud's Resume](https://docs.google.com/document/d/1ohiEAjX9aFUYZX3TZ3GaSLCVr1XMQLvS/edit?usp=sharing&ouid=112478105491647465355&rtpof=true&sd=true)
 
-- Watch videos on my projects [Youtube] (https://docs.google.com/document/d/1cId2M3MYijQv4IQjXUSOwbJFlraexbOBKtPQpXKwwtc/edit?usp=sharing)
+- Watch videos on my projects [Youtube](https://docs.google.com/document/d/1cId2M3MYijQv4IQjXUSOwbJFlraexbOBKtPQpXKwwtc/edit?usp=sharing)
 
 - ⚡ Fun fact **Photography is my hobby**
 
