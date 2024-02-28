@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saudmillwala@gmail.com**
 
-- 📄 Know about my experiences [Saud's Resume]([https://docs.google.com/document/d/1ohiEAjX9aFUYZX3TZ3GaSLCVr1XMQLvS/edit?usp=sharing&ouid=112478105491647465355&rtpof=true&sd=true](https://drive.google.com/file/d/17oIES0OHXELTFVmwUUGVO6XOIkuai2EM/view?usp=sharing))
+- 📄 Know about my experiences [Saud's Resume]([https://drive.google.com/file/d/17oIES0OHXELTFVmwUUGVO6XOIkuai2EM/view?usp=sharing)])
 
 - Watch videos on my projects [Youtube](https://docs.google.com/document/d/1cId2M3MYijQv4IQjXUSOwbJFlraexbOBKtPQpXKwwtc/edit?usp=sharing)
 
